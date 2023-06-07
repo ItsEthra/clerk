@@ -1,0 +1,12 @@
+.cache/
+out/
+compile_commands.json
+
+*.log
+*.pdf
+
+# Ignore samples
+*.exe
+*.dll
+
+docs/
